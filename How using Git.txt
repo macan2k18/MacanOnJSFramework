@@ -1,0 +1,14 @@
+https://stackoverflow.com/questions/33263491/how-do-i-connect-to-my-existing-git-repo-using-visual-studio-code
+
+Use the GIT GUI in the GIT Plugin.
+
+Clone your online repo Online Repository with the URL which you have.
+
+After cloning make changes to the files. When you make changes, you can see the number changes. Commit those changes.
+
+Fetch from the Remote (to check if anything is updated while you are working).
+
+If the Fetch operation give you an update about the changes in the remote repository, make a pull operation which will update your copy in the Visual Studio. Elsewise, do not make a pull operation if there are no changes in the remote repo.
+
+Push your changes to the upstream remote repository by making a Push operation.
+
