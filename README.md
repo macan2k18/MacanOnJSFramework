@@ -8,3 +8,10 @@ How to implement frontend framework?
 
 # Steps
 1. SPA None JavaScript Framework.
+
+2. Peter WPA
+
+3. NX framework
+
+4. React Redux ?
+5. angular vueJs ReactJS
